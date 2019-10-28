@@ -1,6 +1,6 @@
 # push_swap
 
-( Validated [110 / 100 )
+**( Validated [110 / 100])
 
 The idea is simple, you have two stacks called Stack A and Stack B. 
 
