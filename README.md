@@ -1,5 +1,4 @@
 # push_swap
-Find the best sorting algorithm 
 
 The idea is simple, you have two stacks called Stack A and Stack B. 
 
