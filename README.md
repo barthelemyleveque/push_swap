@@ -1,6 +1,6 @@
 # push_swap
 
-**Project score : [110 / 100] **
+**Project score : [110 / 100]**
 
 The idea is simple, you have two stacks called Stack A and Stack B. 
 
